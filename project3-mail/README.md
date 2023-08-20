@@ -1,4 +1,4 @@
-# Project 2 - Mail
+# Project 3 - Mail
 
 Video demo: https://youtu.be/sEux-u8GrsU
 
