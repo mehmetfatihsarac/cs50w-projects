@@ -7,4 +7,4 @@ In order to see more screenshots, click [here](images).
 
 ![Homepage](images/homepage-logged-in.png)
 ![Following](images/following.png)
-![Profile](images/profile.png)
+![Profile](images/others-profile.png)
